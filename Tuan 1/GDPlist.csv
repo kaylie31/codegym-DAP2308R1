@@ -1,126 +1,126 @@
 Country,Continent,GDP (millions of US$)
-Â Afghanistan,Asia,18181
-Â Albania,Europe,12847
-Â Algeria,Africa,190709
-Â Angola,Africa,100948
-Â Argentina,South America,447644
-Â Australia,Oceania,1488221
-Â Austria,Europe,419243
-Â Azerbaijan,Europe,62321
-Â Bahrain,Asia,26108
-Â Bangladesh,Asia,113032
-Â Belarus,Europe,55483
-Â Belgium,Europe,513396
-Â Bolivia,Africa,24604
-Â Bosnia and Herzegovina,Europe,17965
-Â Botswana,Africa,17570
-Â Brazil,South America,2492908
-Â Brunei,Asia,15533
-Â Bulgaria,Europe,53514
-Â Burma,Asia,51925
-Â Cambodia,Asia,12861
-Â Cameroon,Africa,25759
-Â Canada,North America,1736869
-Â Chile,South America,248411
-Â China,Asia,7298147
-Â Colombia,South America,328422
-"Â Congo, Democratic Republic of the",Africa,15668
-"Â Congo, Republic of the",Africa,14769
-Â Costa Rica,North America,40947
-Â CÃ´te d'Ivoire,Africa,24096
-Â Croatia,Europe,63842
-Â Cyprus,Europe,24949
-Â Czech Republic,Europe,215265
-Â Denmark,Europe,333238
-Â Dominican Republic,North America,56700
-Â Ecuador,South America,66381
-Â Egypt,Africa,235719
-Â El Salvador,North America,22761
-Â Equatorial Guinea,Africa,19805
-Â Estonia,Europe,22225
-Â Ethiopia,Africa,31256
-Â Finland,Europe,266553
-Â France,Europe,2776324
-Â Gabon,Africa,16176
-Â Georgia,Europe,14347
-Â Germany,Europe,3577031
-Â Ghana,Africa,37158
-Â Greece,Europe,303065
-Â Guatemala,North America,46897
-Â Honduras,North America,17381
-Â Hong Kong,Asia,243302
-Â Hungary,Europe,140303
-Â Iceland,Europe,14048
-Â India,Asia,1676143
-Â Indonesia,Asia,845680
-Â Iran,Asia,482445
-Â Iraq,Asia,115388
-Â Ireland,Europe,217669
-Â Israel,Asia,242897
-Â Italy,Europe,2198730
-Â Jamaica,North America,14807
-Â Japan,Asia,5869471
-Â Jordan,Africa,29233
-Â Kazakhstan,Asia,178312
-Â Kenya,Africa,34796
-Â Kuwait,Asia,176667
-Â Latvia,Europe,28252
-Â Lebanon,Asia,39039
-Â Libya,Africa,36874
-Â Lithuania,Europe,42718
-Â Luxembourg,Europe,58412
-Â Malaysia,Asia,278680
-Â Mali,Africa,10600
-Â Mauritius,Africa,11313
-Â Mexico,North America,1154784
-Â Morocco,Africa,99241
-Â Mozambique,Africa,12827
-Â Namibia,Africa,12461
-Â Nepal,Asia,18580
-Â Netherlands,Europe,840433
-Â New Zealand,Oceania,161851
-Â Nigeria,Africa,238920
-Â Norway,Europe,483650
-Â Oman,Asia,71888
-Â Pakistan,Asia,210566
-Â Panama,North America,30569
-Â Papua New Guinea,Oceania,12655
-Â Paraguay,South America,21236
-Â Peru,South America,173502
-Â Philippines,Asia,213129
-Â Poland,Europe,513821
-Â Portugal,Europe,238880
-Â Qatar,Asia,173847
-Â Romania,Europe,189776
-Â Russia,Asia,1850401
-Â Saudi Arabia,Asia,577595
-Â Senegal,Africa,14461
-Â Serbia,Europe,45064
-Â Singapore,Asia,259849
-Â Slovakia,Europe,96089
-Â Slovenia,Europe,49588
-Â South Africa,Africa,408074
-Â South Korea,Asia,1116247
-Â Spain,Europe,1493513
-Â Sri Lanka,Asia,59095
-Â Sudan + Â South Sudan,Africa,64750
-Â Sweden,Europe,538237
-Â Switzerland,Europe,636059
-Â Taiwan,Asia,466832
-Â Tanzania,Africa,23333
-Â Thailand,Asia,345649
-Â Trinidad and Tobago,North America,22707
-Â Tunisia,Asia,46360
-Â Turkey,Asia,778089
-Â Turkmenistan,Asia,25742
-Â Uganda,Africa,16810
-Â Ukraine,Europe,164960
-Â United Arab Emirates,Asia,360136
-Â United Kingdom,Europe,2417570
-Â United States,North America,15094025
-Â Uruguay,South America,46872
-Â Uzbekistan,Asia,45353
-Â Venezuela,South America,315841
-Â Vietnam,Asia,122722
-Â Yemen,Africa,33675
-Â Zambia,Africa,19206
+ Afghanistan,Asia,18181
+ Albania,Europe,12847
+ Algeria,Africa,190709
+ Angola,Africa,100948
+ Argentina,South America,447644
+ Australia,Oceania,1488221
+ Austria,Europe,419243
+ Azerbaijan,Europe,62321
+ Bahrain,Asia,26108
+ Bangladesh,Asia,113032
+ Belarus,Europe,55483
+ Belgium,Europe,513396
+ Bolivia,Africa,24604
+ Bosnia and Herzegovina,Europe,17965
+ Botswana,Africa,17570
+ Brazil,South America,2492908
+ Brunei,Asia,15533
+ Bulgaria,Europe,53514
+ Burma,Asia,51925
+ Cambodia,Asia,12861
+ Cameroon,Africa,25759
+ Canada,North America,1736869
+ Chile,South America,248411
+ China,Asia,7298147
+ Colombia,South America,328422
+" Congo, Democratic Republic of the",Africa,15668
+" Congo, Republic of the",Africa,14769
+ Costa Rica,North America,40947
+ Côte d'Ivoire,Africa,24096
+ Croatia,Europe,63842
+ Cyprus,Europe,24949
+ Czech Republic,Europe,215265
+ Denmark,Europe,333238
+ Dominican Republic,North America,56700
+ Ecuador,South America,66381
+ Egypt,Africa,235719
+ El Salvador,North America,22761
+ Equatorial Guinea,Africa,19805
+ Estonia,Europe,22225
+ Ethiopia,Africa,31256
+ Finland,Europe,266553
+ France,Europe,2776324
+ Gabon,Africa,16176
+ Georgia,Europe,14347
+ Germany,Europe,3577031
+ Ghana,Africa,37158
+ Greece,Europe,303065
+ Guatemala,North America,46897
+ Honduras,North America,17381
+ Hong Kong,Asia,243302
+ Hungary,Europe,140303
+ Iceland,Europe,14048
+ India,Asia,1676143
+ Indonesia,Asia,845680
+ Iran,Asia,482445
+ Iraq,Asia,115388
+ Ireland,Europe,217669
+ Israel,Asia,242897
+ Italy,Europe,2198730
+ Jamaica,North America,14807
+ Japan,Asia,5869471
+ Jordan,Africa,29233
+ Kazakhstan,Asia,178312
+ Kenya,Africa,34796
+ Kuwait,Asia,176667
+ Latvia,Europe,28252
+ Lebanon,Asia,39039
+ Libya,Africa,36874
+ Lithuania,Europe,42718
+ Luxembourg,Europe,58412
+ Malaysia,Asia,278680
+ Mali,Africa,10600
+ Mauritius,Africa,11313
+ Mexico,North America,1154784
+ Morocco,Africa,99241
+ Mozambique,Africa,12827
+ Namibia,Africa,12461
+ Nepal,Asia,18580
+ Netherlands,Europe,840433
+ New Zealand,Oceania,161851
+ Nigeria,Africa,238920
+ Norway,Europe,483650
+ Oman,Asia,71888
+ Pakistan,Asia,210566
+ Panama,North America,30569
+ Papua New Guinea,Oceania,12655
+ Paraguay,South America,21236
+ Peru,South America,173502
+ Philippines,Asia,213129
+ Poland,Europe,513821
+ Portugal,Europe,238880
+ Qatar,Asia,173847
+ Romania,Europe,189776
+ Russia,Asia,1850401
+ Saudi Arabia,Asia,577595
+ Senegal,Africa,14461
+ Serbia,Europe,45064
+ Singapore,Asia,259849
+ Slovakia,Europe,96089
+ Slovenia,Europe,49588
+ South Africa,Africa,408074
+ South Korea,Asia,1116247
+ Spain,Europe,1493513
+ Sri Lanka,Asia,59095
+ Sudan +  South Sudan,Africa,64750
+ Sweden,Europe,538237
+ Switzerland,Europe,636059
+ Taiwan,Asia,466832
+ Tanzania,Africa,23333
+ Thailand,Asia,345649
+ Trinidad and Tobago,North America,22707
+ Tunisia,Asia,46360
+ Turkey,Asia,778089
+ Turkmenistan,Asia,25742
+ Uganda,Africa,16810
+ Ukraine,Europe,164960
+ United Arab Emirates,Asia,360136
+ United Kingdom,Europe,2417570
+ United States,North America,15094025
+ Uruguay,South America,46872
+ Uzbekistan,Asia,45353
+ Venezuela,South America,315841
+ Vietnam,Asia,122722
+ Yemen,Africa,33675
+ Zambia,Africa,19206
